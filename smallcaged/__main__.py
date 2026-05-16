@@ -33,6 +33,11 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Re-download cached files.",
     )
+    parser.add_argument(
+        "--bass", "-b",
+        default=None,
+        help="Bass note for slash chords (e.g. 'A', 'G#').",
+    )
     args = parser.parse_args(argv)
 
     if args.root:
@@ -41,6 +46,12 @@ def main(argv: list[str] | None = None) -> int:
     if args.root and args.root not in ROOT_TO_FILENAME:
         print(f"error: unknown root '{args.root}'. Use --help for valid roots.", file=sys.stderr)
         return 1
+
+    if args.bass:
+        args.bass = args.bass[0].upper() + args.bass[1:] if len(args.bass) > 1 else args.bass.upper()
+        if args.bass not in ROOT_TO_FILENAME:
+            print(f"error: unknown bass note '{args.bass}'.", file=sys.stderr)
+            return 1
 
     has_chord = args.chord is not None
     if args.chord == "maj":
@@ -53,13 +64,15 @@ def main(argv: list[str] | None = None) -> int:
 
     for root in roots:
         for chord_type in chord_types:
-            text = fetch_chord_file(root, chord_type, force=args.refresh)
+            text = fetch_chord_file(root, chord_type, force=args.refresh, bass=args.bass)
             if text is None:
                 continue
             shapes = parse_chord_file(root, chord_type, text)
             valid = [s for s in shapes if is_valid_shape(s)]
             if valid:
-                output_lines.append(render_chord_group(root, chord_type, valid))
+                output_lines.append(
+                    render_chord_group(root, chord_type, valid, bass=args.bass)
+                )
 
     output = "\n".join(output_lines)
 
