@@ -8,6 +8,10 @@ version = "0.1.0"
 description = "Guitar chord shape filter from Howard's Big List"
 requires-python = ">=3.10"
 
+[project.scripts]
+smallcaged = "smallcaged.__main__:main"
+s = "smallcaged.__main__:main"
+
 [tool.setuptools.packages.find]
 include = ["smallcaged*"]
 
