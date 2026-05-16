@@ -39,6 +39,7 @@ def shape_to_finger_label(shape: Shape) -> str:
 def render_chord_group(
     root: str, chord_type: str, shapes: list[Shape], *,
     dotted: bool = False, show_section: bool = True, bass: str | None = None,
+    reorder: bool = False,
 ) -> str:
     display_type = chord_type if chord_type else "maj"
     fmt = _format_dotted if dotted else format_shape
@@ -51,12 +52,20 @@ def render_chord_group(
     else:
         group_header = f"=== {root} {display_type} ==="
 
-    if show_section:
-        header = f"{'Shape':<24} {'Section':<8} {'Fingers':<10}"
-        sep = f"{'-'*24} {'-'*8} {'-'*10}"
+    if reorder:
+        if show_section:
+            header = f"{'Fingers':<10} {'Section':<8} {'Shape':<24}"
+            sep = f"{'-'*10} {'-'*8} {'-'*24}"
+        else:
+            header = f"{'Fingers':<10} {'Shape':<24}"
+            sep = f"{'-'*10} {'-'*24}"
     else:
-        header = f"{'Shape':<24} {'Fingers':<10}"
-        sep = f"{'-'*24} {'-'*10}"
+        if show_section:
+            header = f"{'Shape':<24} {'Section':<8} {'Fingers':<10}"
+            sep = f"{'-'*24} {'-'*8} {'-'*10}"
+        else:
+            header = f"{'Shape':<24} {'Fingers':<10}"
+            sep = f"{'-'*24} {'-'*10}"
 
     lines: list[str] = [
         group_header,
@@ -68,8 +77,14 @@ def render_chord_group(
         section = find_section(shape) or ""
         shape_str = _ljust_vis(fmt(shape), 24)
         if show_section:
-            lines.append(f"{shape_str} {section:<8} {label:<10}")
+            if reorder:
+                lines.append(f"{label:<10} {section:<8} {shape_str}")
+            else:
+                lines.append(f"{shape_str} {section:<8} {label:<10}")
         else:
-            lines.append(f"{shape_str} {label:<10}")
+            if reorder:
+                lines.append(f"{label:<10} {shape_str}")
+            else:
+                lines.append(f"{shape_str} {label:<10}")
     lines.append("")
     return "\n".join(lines)
