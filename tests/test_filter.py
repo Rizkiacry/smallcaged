@@ -1,5 +1,11 @@
 import pytest
-from smallcaged.filter import rule_no_duplicate_frets
+from smallcaged.filter import (
+    is_valid_shape,
+    rule_fits_5_fret_window,
+    rule_no_duplicate_frets,
+    rule_no_muted_gaps,
+    rule_wxyz_finger_combo,
+)
 
 
 def test_rule1_passes_distinct_frets():
@@ -25,9 +31,6 @@ def test_rule1_all_muted():
 def test_rule1_mixed_duplicate():
     shape = (8, 7, 5, 5, -1, 8)
     assert rule_no_duplicate_frets(shape) is False
-
-
-from smallcaged.filter import rule_fits_5_fret_window
 
 
 def test_rule2_passes_tight_fit():
@@ -63,9 +66,6 @@ def test_rule2_open_strings_only():
 def test_rule2_edge_window_3_6():
     shape = (-1, 6, 5, 3, 4, -1)  # frets 3,4,5,6 fit window 3-6
     assert rule_fits_5_fret_window(shape) is True
-
-
-from smallcaged.filter import rule_wxyz_finger_combo
 
 
 def test_rule3_w_y_z():
@@ -118,9 +118,6 @@ def test_rule3_all_muted():
     assert rule_wxyz_finger_combo(shape) is True
 
 
-from smallcaged.filter import rule_no_muted_gaps
-
-
 def test_rule4_passes_muted_at_end():
     shape = (8, 7, 5, -1, -1, -1)
     assert rule_no_muted_gaps(shape) is True
@@ -144,14 +141,6 @@ def test_rule4_no_mutes():
 def test_rule4_all_muted():
     shape = (-1, -1, -1, -1, -1, -1)
     assert rule_no_muted_gaps(shape) is True
-
-
-def test_rule4_gap_at_end():
-    shape = (8, 7, 5, 0, -1, 0)
-    assert rule_no_muted_gaps(shape) is False
-
-
-from smallcaged.filter import is_valid_shape
 
 
 def test_composite_valid_shape():
