@@ -1,3 +1,0 @@
-[console_scripts]
-s = smallcaged.__main__:main
-smallcaged = smallcaged.__main__:main
