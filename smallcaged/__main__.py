@@ -35,6 +35,9 @@ def main(argv: list[str] | None = None) -> int:
     )
     args = parser.parse_args(argv)
 
+    if args.root:
+        args.root = args.root[0].upper() + args.root[1:] if len(args.root) > 1 else args.root.upper()
+
     if args.root and args.root not in ROOT_TO_FILENAME:
         print(f"error: unknown root '{args.root}'. Use --help for valid roots.", file=sys.stderr)
         return 1
