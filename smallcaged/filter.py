@@ -67,6 +67,18 @@ def rule_no_muted_gaps(shape: Shape) -> bool:
     return True
 
 
+def find_section(shape: Shape) -> str | None:
+    fretted = [f for f in shape if f != -1 and f != 0]
+    if not fretted:
+        return None
+    lo = min(fretted)
+    hi = max(fretted)
+    for w_lo, w_hi in WINDOWS:
+        if lo >= w_lo and hi <= w_hi:
+            return f"{w_lo}-{w_hi}"
+    return None
+
+
 def is_valid_shape(shape: Shape) -> bool:
     return (
         rule_no_duplicate_frets(shape)

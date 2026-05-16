@@ -1,85 +1,85 @@
 === C maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-8 7 5 x x x              5-8      w-y-z     
-8 7 5 0 x x              5-8      w-y-z     
-8 7 10 0 x x             7-10     w-x-z     
+8 7̇ 5̇ x x x            5-8      w-y-z     
+8 7̇ 5̇ 0 x x            5-8      w-y-z     
+8 7̇ 10 0 x x            7-10     w-x-z     
 
 === C m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-8 6 5 x x x              5-8      w-x-z     
-x 3 1 0 4 x              1-4      w-y-z     
-8 6 5 0 x x              5-8      w-x-z     
-x 3 1 0 x x              1-4      w-y       
+8 6 5̇ x x x             5-8      w-x-z     
+x 3̇ 1 0 4 x             1-4      w-y-z     
+8 6 5̇ 0 x x             5-8      w-x-z     
+x 3̇ 1 0 x x             1-4      w-y       
 
 === C# maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 4 3 1 x x              1-4      w-y-z     
+x 4 3̇ 1 x x             1-4      w-y-z     
 
 === C# m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
 x 4 2 1 x x              1-4      w-x-z     
-x x 11 13 14 0           11-14    w-y-z     
+x x 11 13̇ 14 0          11-14    w-y-z     
 
 === D maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-10 9 7 x x x             7-10     w-y-z     
+10 9̇ 7̇ x x x           7-10     w-y-z     
 x x 0 11 10 x            9-12     x-y       
 
 === D m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-10 8 7 x x x             7-10     w-x-z     
+10 8 7̇ x x x            7-10     w-x-z     
 
 === D# maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 6 5 3 x x              3-6      w-y-z     
+x 6 5̇ 3̇ x x            3-6      w-y-z     
 x 6 8 0 x x              5-8      x-z       
 
 === D# m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 6 4 3 x x              3-6      w-x-z     
+x 6 4 3̇ x x             3-6      w-x-z     
 
 === E maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-12 11 9 x x x            9-12     w-y-z     
-0 11 14 13 0 0           11-14    w-y-z     
+12 11 9̇ x x x           9-12     w-y-z     
+0 11 14 13̇ 0 0          11-14    w-y-z     
 
 === E m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-12 10 9 x x x            9-12     w-x-z     
-0 7 9 0 0 0              7-10     w-y       
-0 7 5 0 0 0              5-8      w-y       
-x 7 5 0 0 0              5-8      w-y       
-x 7 9 0 0 0              7-10     w-y       
-0 10 9 0 12 0            9-12     w-x-z     
-0 10 9 12 0 0            9-12     w-x-z     
-12 10 9 0 0 0            9-12     w-x-z     
-0 7 5 0 0 x              5-8      w-y       
-0 7 9 0 0 x              7-10     w-y       
+12 10 9̇ x x x           9-12     w-x-z     
+0 7̇ 9̇ 0 0 0            7-10     w-y       
+0 7̇ 5̇ 0 0 0            5-8      w-y       
+x 7̇ 5̇ 0 0 0            5-8      w-y       
+x 7̇ 9̇ 0 0 0            7-10     w-y       
+0 10 9̇ 0 12 0           9-12     w-x-z     
+0 10 9̇ 12 0 0           9-12     w-x-z     
+12 10 9̇ 0 0 0           9-12     w-x-z     
+0 7̇ 5̇ 0 0 x            5-8      w-y       
+0 7̇ 9̇ 0 0 x            7-10     w-y       
 
 === F maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 8 7 5 x x              5-8      w-y-z     
+x 8 7̇ 5̇ x x            5-8      w-y-z     
 
 === F m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 8 6 5 x x              5-8      w-x-z     
+x 8 6 5̇ x x             5-8      w-x-z     
 
 === F# maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-14 13 11 x x x           11-14    w-y-z     
+14 13̇ 11 x x x          11-14    w-y-z     
 
 === F# m ===
 Shape                    Section  Fingers   
@@ -89,24 +89,24 @@ Shape                    Section  Fingers
 === G maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 10 9 7 x x             7-10     w-y-z     
-3 2 0 0 0 x              1-4      x-y       
-3 5 0 0 0 x              3-6      w-y       
-x 10 9 7 0 x             7-10     w-y-z     
-3 2 0 0 x x              1-4      x-y       
+x 10 9̇ 7̇ x x           7-10     w-y-z     
+3̇ 2 0 0 0 x             1-4      x-y       
+3̇ 5̇ 0 0 0 x            3-6      w-y       
+x 10 9̇ 7̇ 0 x           7-10     w-y-z     
+3̇ 2 0 0 x x             1-4      x-y       
 
 === G m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 10 8 7 x x             7-10     w-x-z     
-3 1 0 0 x x              1-4      w-y       
+x 10 8 7̇ x x            7-10     w-x-z     
+3̇ 1 0 0 x x             1-4      w-y       
 x x x 0 11 10            9-12     x-y       
-3 1 0 x x x              1-4      w-y       
+3̇ 1 0 x x x             1-4      w-y       
 
 === G# maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-4 3 1 x x x              1-4      w-y-z     
+4 3̇ 1 x x x             1-4      w-y-z     
 
 === G# m ===
 Shape                    Section  Fingers   
@@ -117,28 +117,28 @@ x x 6 8 0 x              5-8      x-z
 === A maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 12 11 9 x x            9-12     w-y-z     
+x 12 11 9̇ x x           9-12     w-y-z     
 
 === A m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 12 10 9 x x            9-12     w-x-z     
+x 12 10 9̇ x x           9-12     w-x-z     
 
 === A# maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-6 5 3 x x x              3-6      w-y-z     
+6 5̇ 3̇ x x x            3-6      w-y-z     
 6 8 0 x x x              5-8      x-z       
 
 === A# m ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-6 4 3 x x x              3-6      w-x-z     
+6 4 3̇ x x x             3-6      w-x-z     
 
 === B maj ===
 Shape                    Section  Fingers   
 ------------------------ -------- ----------
-x 14 13 11 x x           11-14    w-y-z     
+x 14 13̇ 11 x x          11-14    w-y-z     
 
 === B m ===
 Shape                    Section  Fingers   
