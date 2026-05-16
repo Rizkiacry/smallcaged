@@ -30,7 +30,7 @@ SAMPLE_CHORD_FILE = """ C
 
 @pytest.fixture
 def mock_fetcher(monkeypatch):
-    def fake_fetch(root, chord_type, cache_dir=None, force=False):
+    def fake_fetch(root, chord_type, cache_dir=None, force=False, bass=None):
         if root == "C" and chord_type == "":
             return SAMPLE_CHORD_FILE
         return None
