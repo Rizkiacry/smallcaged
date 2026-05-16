@@ -35,37 +35,43 @@ CHORD_TYPES: list[str] = [
     "maj7sharp5", "maj7b5", "9sharp5", "9b5",
 ]
 
+BASS_NOTES: list[str] = [
+    "A", "A#", "B", "C#", "D", "D#", "E", "F", "F#", "G", "G#",
+]
 
-def build_url(root: str, chord_type: str) -> str:
+
+def build_url(root: str, chord_type: str, bass: str | None = None) -> str:
     root_part = ROOT_TO_FILENAME[root]
-    if chord_type:
-        filename = f"{root_part}{chord_type}.txt"
-    else:
-        filename = f"{root_part}.txt"
+    filename = f"{root_part}{chord_type}" if chord_type else root_part
+    if bass:
+        filename = f"{filename}.{ROOT_TO_FILENAME[bass]}"
+    filename += ".txt"
     return f"{BASE_URL}/{filename}"
 
 
 def get_cache_path(
     root: str, chord_type: str, cache_dir: pathlib.Path | None = None,
+    bass: str | None = None,
 ) -> pathlib.Path:
     if cache_dir is None:
         cache_dir = pathlib.Path.home() / ".cache" / "smallcaged"
     cache_dir.mkdir(parents=True, exist_ok=True)
     root_part = ROOT_TO_FILENAME[root]
-    if chord_type:
-        filename = f"{root_part}{chord_type}.txt"
-    else:
-        filename = f"{root_part}.txt"
+    filename = f"{root_part}{chord_type}" if chord_type else root_part
+    if bass:
+        filename = f"{filename}.{ROOT_TO_FILENAME[bass]}"
+    filename += ".txt"
     return cache_dir / filename
 
 
 def fetch_chord_file(
-    root: str, chord_type: str, cache_dir: pathlib.Path | None = None, force: bool = False,
+    root: str, chord_type: str, cache_dir: pathlib.Path | None = None,
+    force: bool = False, bass: str | None = None,
 ) -> str | None:
-    cache_path = get_cache_path(root, chord_type, cache_dir)
+    cache_path = get_cache_path(root, chord_type, cache_dir, bass=bass)
     if cache_path.exists() and not force:
         return cache_path.read_text()
-    url = build_url(root, chord_type)
+    url = build_url(root, chord_type, bass=bass)
     try:
         with urllib.request.urlopen(url, timeout=10) as resp:
             text = resp.read().decode("utf-8")
