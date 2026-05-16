@@ -35,6 +35,10 @@ def main(argv: list[str] | None = None) -> int:
     )
     args = parser.parse_args(argv)
 
+    if args.root and args.root not in ROOT_TO_FILENAME:
+        print(f"error: unknown root '{args.root}'. Use --help for valid roots.", file=sys.stderr)
+        return 1
+
     roots = [args.root] if args.root else sorted(ROOT_TO_FILENAME.keys(), key=_root_sort_key)
     chord_types = [args.chord] if args.chord else CHORD_TYPES
 
@@ -62,12 +66,12 @@ def main(argv: list[str] | None = None) -> int:
 
 
 _NATURAL_ORDER = {
-    "C": 0, "C#": 1,
-    "D": 2, "D#": 3,
+    "C": 0, "C#": 1, "Db": 1,
+    "D": 2, "D#": 3, "Eb": 3,
     "E": 4,
-    "F": 5, "F#": 6,
-    "G": 7, "G#": 8,
-    "A": 9, "A#": 10,
+    "F": 5, "F#": 6, "Gb": 6,
+    "G": 7, "G#": 8, "Ab": 8,
+    "A": 9, "A#": 10, "Bb": 10,
     "B": 11,
 }
 
