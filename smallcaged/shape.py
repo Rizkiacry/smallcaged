@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import typing
-
 # 6 strings: low E (idx 0) to high E (idx 5)
 # Values: 0-24 for frets, -1 for muted (x)
 Shape = tuple[int, int, int, int, int, int]
