@@ -1,10 +1,18 @@
 from __future__ import annotations
+import unicodedata
 
 from smallcaged.filter import _find_finger_label, find_section
 from smallcaged.shape import Shape, format_shape
 
 _DOT_DIGITS = frozenset({"3", "5", "7", "9"})
 
+
+def _vis_len(s: str) -> int:
+    return sum(1 for c in s if unicodedata.combining(c) == 0)
+
+def _ljust_vis(s: str, width: int) -> str:
+    pad = width - _vis_len(s)
+    return s + " " * max(0, pad)
 
 def _dotted_fret(fret: str) -> str:
     return "".join(d + "\u0307" if d in _DOT_DIGITS else d for d in fret)
@@ -49,9 +57,10 @@ def render_chord_group(
     for shape in shapes:
         label = shape_to_finger_label(shape)
         section = find_section(shape) or ""
+        shape_str = _ljust_vis(fmt(shape), 24)
         if show_section:
-            lines.append(f"{fmt(shape):<24} {section:<8} {label:<10}")
+            lines.append(f"{shape_str} {section:<8} {label:<10}")
         else:
-            lines.append(f"{fmt(shape):<24} {label:<10}")
+            lines.append(f"{shape_str} {label:<10}")
     lines.append("")
     return "\n".join(lines)
