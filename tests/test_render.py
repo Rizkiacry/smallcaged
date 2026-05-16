@@ -19,3 +19,21 @@ def test_render_chord_group_includes_header():
     assert "C" in output
     assert "maj" in output
     assert "8 7 5 x x x" in output
+
+
+def test_render_header_with_bass():
+    shapes = [(8, 7, 5, -1, -1, -1)]
+    out = render_chord_group("C", "", shapes, bass="G#")
+    assert "=== C/G# ===" in out
+
+
+def test_render_header_with_bass_and_minor():
+    shapes = [(8, 6, 5, -1, -1, -1)]
+    out = render_chord_group("C", "m", shapes, bass="A")
+    assert "=== C m/A ===" in out
+
+
+def test_render_no_bass_still_works():
+    shapes = [(8, 7, 5, -1, -1, -1)]
+    out = render_chord_group("C", "", shapes)
+    assert "=== C maj ===" in out

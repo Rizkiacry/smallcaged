@@ -37,10 +37,19 @@ def shape_to_finger_label(shape: Shape) -> str:
 
 
 def render_chord_group(
-    root: str, chord_type: str, shapes: list[Shape], *, dotted: bool = False, show_section: bool = True,
+    root: str, chord_type: str, shapes: list[Shape], *,
+    dotted: bool = False, show_section: bool = True, bass: str | None = None,
 ) -> str:
     display_type = chord_type if chord_type else "maj"
     fmt = _format_dotted if dotted else format_shape
+
+    if bass:
+        if chord_type:
+            group_header = f"=== {root} {chord_type}/{bass} ==="
+        else:
+            group_header = f"=== {root}/{bass} ==="
+    else:
+        group_header = f"=== {root} {display_type} ==="
 
     if show_section:
         header = f"{'Shape':<24} {'Section':<8} {'Fingers':<10}"
@@ -50,7 +59,7 @@ def render_chord_group(
         sep = f"{'-'*24} {'-'*10}"
 
     lines: list[str] = [
-        f"=== {root} {display_type} ===",
+        group_header,
         header,
         sep,
     ]
