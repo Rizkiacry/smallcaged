@@ -42,8 +42,12 @@ def main(argv: list[str] | None = None) -> int:
         print(f"error: unknown root '{args.root}'. Use --help for valid roots.", file=sys.stderr)
         return 1
 
+    has_chord = args.chord is not None
+    if args.chord == "maj":
+        args.chord = ""
+
     roots = [args.root] if args.root else sorted(ROOT_TO_FILENAME.keys(), key=_root_sort_key)
-    chord_types = [args.chord] if args.chord else CHORD_TYPES
+    chord_types = [args.chord] if has_chord else CHORD_TYPES
 
     output_lines: list[str] = []
 
