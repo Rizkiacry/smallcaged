@@ -1,1941 +1,1886 @@
 === C maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      8 7 5 x x x             
-w-y-z      5-8      8 7 5 0 x x             
-w-x-z      7-10     8 7 10 0 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      8 7 5 x x x            5-8     
+w-y-z      8 7 5 0 x x            5-8     
+w-x-z      8 7 10 0 x x           7-10    
 
 === C m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      8 6 5 x x x             
-w-y-z      1-4      x 3 1 0 4 x             
-w-x-z      5-8      8 6 5 0 x x             
-w-y        1-4      x 3 1 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      8 6 5 x x x            5-8     
+w-y-z      x 3 1 0 4 x            1-4     
+w-x-z      8 6 5 0 x x            5-8     
+w-y        x 3 1 0 x x            1-4     
 
 === C sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 10 7 8 x            
-w-x-z      7-10     8 10 0 7 x x            
-x-z        7-10     8 10 0 0 x x            
-w-y        1-4      x 3 0 0 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 10 7 8 x           7-10    
+w-x-z      8 10 0 7 x x           7-10    
+x-z        8 10 0 0 x x           7-10    
+w-y        x 3 0 0 1 x            1-4     
 
 === C sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x x 5 6 3             
-w-y-z      3-6      x 3 5 0 6 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 5 6 3            3-6     
+w-y-z      x 3 5 0 6 x            3-6     
 
 === C add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 10 7 8 0            
-w-y        1-4      x 3 0 0 1 0             
-w-y-z      5-8      8 7 0 0 5 0             
-w-y        3-6      x 3 0 0 5 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 10 7 8 0           7-10    
+w-y        x 3 0 0 1 0            1-4     
+w-y-z      8 7 0 0 5 0            5-8     
+w-y        x 3 0 0 5 0            3-6     
 
 === C add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 3 5 0 6 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 3 5 0 6 0            3-6     
 
 === C madd2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      8 6 0 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        8 6 0 0 x x            5-8     
 
 === C add2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      8 5 0 0 6 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      8 5 0 0 6 0            5-8     
 
 === C madd2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 3 0 0 4 1             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 3 0 0 4 1            1-4     
 
 === C dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 10 8 7 x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 10 8 7 x           7-10    
 
 === C 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x x x x 1 3             
-w-y        3-6      x 3 5 x x x             
-w-y        3-6      x 3 5 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 1 3            1-4     
+w-y        x 3 5 x x x            3-6     
+w-y        x 3 5 0 x x            3-6     
 
 === C maj6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     8 10 7 0 0 0            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      8 10 7 0 0 0           7-10    
 
 === C maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x x 10 9 12 x           
-x-y        1-4      x 3 2 0 0 0             
-w-y        3-6      x 3 5 0 0 0             
-w-y-z      5-8      8 7 5 0 0 0             
-w-x-z      7-10     8 7 10 0 0 0            
-w-y-z      5-8      8 7 5 0 0 x             
-w-x-z      7-10     8 7 10 0 0 x            
-w-x-z      9-12     x x 10 9 12 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 10 9 12 x          9-12    
+x-y        x 3 2 0 0 0            1-4     
+w-y        x 3 5 0 0 0            3-6     
+w-y-z      8 7 5 0 0 0            5-8     
+w-x-z      8 7 10 0 0 0           7-10    
+w-y-z      8 7 5 0 0 x            5-8     
+w-x-z      8 7 10 0 0 x           7-10    
+w-x-z      x x 10 9 12 0          9-12    
 
 === C 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x x 5 3 6             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 5 3 6            3-6     
 
 === C mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 3 1 4 x x             
-w-y-z      1-4      x 3 1 4 0 x             
-w-x-z      5-8      8 6 5 0 0 x             
-w-y        1-4      x 3 1 0 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 3 1 4 x x            1-4     
+w-y-z      x 3 1 4 0 x            1-4     
+w-x-z      8 6 5 0 0 x            5-8     
+w-y        x 3 1 0 0 x            1-4     
 
 === C maj7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 3 6 5 0 0             
-w-x-z      3-6      x 3 6 4 0 0             
-
-=== C/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x 7 5 8 0             
-x-z        7-10     x 0 10 0 8 0            
-
-=== C/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     9 7 10 0 x x            
-w-x-z      1-4      x 4 2 0 1 0             
-w-x-z      1-4      x 4 2 0 1 x             
-
-=== C/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        11-14    x x 0 0 13 12           
-x-y        11-14    x x 0 12 13 0           
-
-=== C/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     0 7 10 0 8 0            
-
-=== C/F ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x x 3 0 1 0             
-
-=== C/G ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        11-14    x x x 0 13 12           
-
-=== C/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 6 5 8 0             
-
-=== C m/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x x 0 0 13 11           
-
-=== C m/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      0 3 1 0 4 x             
-w-y        1-4      0 3 1 0 x x             
-
-=== C m/G ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x x x 0 13 11           
-
-=== C m/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      4 3 1 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 3 6 5 0 0            3-6     
+w-x-z      x 3 6 4 0 0            3-6     
 
 === C# maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 4 3 1 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 x x            1-4     
 
 === C# m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 4 2 1 x x             
-w-y-z      11-14    x x 11 13 14 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 4 2 1 x x            1-4     
+w-y-z      x x 11 13 14 0         11-14   
 
 === C# dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x x 6 5 3             
-w-x-z      11-14    x x 11 12 14 0          
-x-z        5-8      x x x 6 8 0             
-x-z        1-4      x 4 2 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 6 5 3            3-6     
+w-x-z      x x 11 12 14 0         11-14   
+x-z        x x x 6 8 0            5-8     
+x-z        x 4 2 0 x x            1-4     
 
 === C# 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x 11 13 14 x          
-x-z        1-4      x x x x 2 4             
-x-z        3-6      x 4 6 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 11 13 14 x         11-14   
+x-z        x x x x 2 4            1-4     
+x-z        x 4 6 x x x            3-6     
 
 === C# m6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x 4 6 3 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 4 6 3 0 0            3-6     
 
 === C# 7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 4 3 1 0 x             
-w-x-z      3-6      x 4 3 6 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 0 x            1-4     
+w-x-z      x 4 3 6 0 x            3-6     
 
 === C# m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x 11 9 12 x           
-w-y-z      9-12     x x 11 9 12 0           
-w-x-z      1-4      x 4 2 1 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 11 9 12 x          9-12    
+w-y-z      x x 11 9 12 0          9-12    
+w-x-z      x 4 2 1 0 0            1-4     
 
 === C# mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x x 6 5 8             
-w-y-z      7-10     9 7 10 x x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 6 5 8            5-8     
+w-y-z      9 7 10 x x x           7-10    
 
 === C# 7sharp9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 4 3 1 0 0             
-w-x-z      3-6      x 4 3 6 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 0 0            1-4     
+w-x-z      x 4 3 6 0 0            3-6     
 
 === C# 7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 4 3 0 0 1             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 0 0 1            1-4     
 
 === C# m7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 11 14 12 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 11 14 12 0         11-14   
 
 === C# m7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x 4 2 0 0 0             
-x-y        3-6      x 4 5 0 0 0             
-x-z        1-4      x 4 2 0 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 4 2 0 0 0            1-4     
+x-y        x 4 5 0 0 0            3-6     
+x-z        x 4 2 0 0 x            1-4     
 
 === C# maj7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 4 3 0 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 0 1 x            1-4     
 
-=== C#/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      0 4 3 1 x x             
+=== Db maj ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 x x            1-4     
 
-=== C# m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 11 13 14 0          
+=== Db m ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 4 2 1 x x            1-4     
+w-y-z      x x 11 13 14 0         11-14   
 
-=== C# m/F# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 4 1 2 0             
+=== Db dim ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 6 5 3            3-6     
+w-x-z      x x 11 12 14 0         11-14   
+x-z        x x x 6 8 0            5-8     
+x-z        x 4 2 0 x x            1-4     
+
+=== Db 5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 11 13 14 x         11-14   
+x-z        x x x x 2 4            1-4     
+x-z        x 4 6 x x x            3-6     
+
+=== Db m6.7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 4 6 3 0 0            3-6     
+
+=== Db 7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 0 x            1-4     
+w-x-z      x 4 3 6 0 x            3-6     
+
+=== Db m7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 11 9 12 x          9-12    
+w-y-z      x x 11 9 12 0          9-12    
+w-x-z      x 4 2 1 0 0            1-4     
+
+=== Db mmaj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 6 5 8            5-8     
+w-y-z      9 7 10 x x x           7-10    
+
+=== Db 7sharp9 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 1 0 0            1-4     
+w-x-z      x 4 3 6 0 0            3-6     
+
+=== Db 7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 0 0 1            1-4     
+
+=== Db m7sharp5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 11 14 12 0         11-14   
+
+=== Db m7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 4 2 0 0 0            1-4     
+x-y        x 4 5 0 0 0            3-6     
+x-z        x 4 2 0 0 x            1-4     
+
+=== Db maj7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 4 3 0 1 x            1-4     
 
 === D maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     10 9 7 x x x            
-x-y        9-12     x x 0 11 10 x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      10 9 7 x x x           7-10    
+x-y        x x 0 11 10 x          9-12    
 
 === D m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     10 8 7 x x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      10 8 7 x x x           7-10    
 
 === D sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x x 12 9 10 x           
-x-y        1-4      x x 0 2 3 0             
-w-x-z      9-12     x x 0 9 10 12           
-w-x-z      9-12     x x 12 9 10 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 12 9 10 x          9-12    
+x-y        x x 0 2 3 0            1-4     
+w-x-z      x x 0 9 10 12          9-12    
+w-x-z      x x 12 9 10 0          9-12    
 
 === D sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x x 7 8 5             
-w-y-z      5-8      x x 0 7 8 5             
-w-y        3-6      x x 0 0 3 5             
-w-y-z      5-8      x 5 7 0 8 x             
-x-z        9-12     x x 0 12 10 x           
-w-y        5-8      x 5 7 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 7 8 5            5-8     
+w-y-z      x x 0 7 8 5            5-8     
+w-y        x x 0 0 3 5            3-6     
+w-y-z      x 5 7 0 8 x            5-8     
+x-z        x x 0 12 10 x          9-12    
+w-y        x 5 7 0 x x            5-8     
 
 === D add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x x 0 11 10 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x 0 11 10 0          9-12    
 
 === D add9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x x 0 11 10 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x 0 11 10 0          9-12    
 
 === D add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      x x 0 0 7 5             
-w-y-z      7-10     10 9 7 0 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x 0 0 7 5            5-8     
+w-y-z      10 9 7 0 x x           7-10    
 
 === D madd4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     10 8 7 0 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      10 8 7 0 x x           7-10    
 
 === D dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x x 12 10 9 x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 12 10 9 x          9-12    
 
 === D dim7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x 0 10 9 7            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 10 9 7           7-10    
 
 === D 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        3-6      x x x x 3 5             
-w-y        5-8      x 5 7 x x x             
-x-y        1-4      x x 0 2 3 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 3 5            3-6     
+w-y        x 5 7 x x x            5-8     
+x-y        x x 0 2 3 x            1-4     
 
 === D 6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 0 11 12 14          
-x-y        9-12     x x 0 11 0 10           
-x-z        1-4      x x 0 4 0 2             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 0 11 12 14         11-14   
+x-y        x x 0 11 0 10          9-12    
+x-z        x x 0 4 0 2            1-4     
 
 === D m6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 0 4 3 1             
-x-z        3-6      x x 0 4 6 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 4 3 1            1-4     
+x-z        x x 0 4 6 x            3-6     
 
 === D m6.9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x x 0 4 6 0             
-x-z        9-12     x x 0 10 12 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 0 4 6 0            3-6     
+x-z        x x 0 10 12 0          9-12    
 
 === D 6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 0 4 1 2             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 0 4 1 2            1-4     
 
 === D m6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        7-10     x x 0 10 0 8            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 0 10 0 8           7-10    
 
 === D maj6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x 0 11 12 9           
-w-y        9-12     x x 0 11 0 9            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 11 12 9          9-12    
+w-y        x x 0 11 0 9           9-12    
 
 === D 7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x 0 11 13 14          
-w-y-z      5-8      x x 0 5 7 8             
-w-y        5-8      x x 0 5 7 x             
-w-y        11-14    x x 0 11 13 x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 11 13 14         11-14   
+w-y-z      x x 0 5 7 8            5-8     
+w-y        x x 0 5 7 x            5-8     
+w-y        x x 0 11 13 x          11-14   
 
 === D m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 0 5 6 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 0 5 6 8            5-8     
 
 === D maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 12 11 14 x          
-x-y        5-8      x x 0 6 7 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 12 11 14 x         11-14   
+x-y        x x 0 6 7 x            5-8     
 
 === D 7sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x x 0 0 1 3             
-x-z        7-10     x x 0 0 10 8            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x 0 0 1 3            1-4     
+x-z        x x 0 0 10 8           7-10    
 
 === D 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x x 7 5 8             
-w-y-z      5-8      x x 0 7 5 8             
-w-y        3-6      x x 0 5 3 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 7 5 8            5-8     
+w-y-z      x x 0 7 5 8            5-8     
+w-y        x x 0 5 3 0            3-6     
 
 === D m7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x 0 5 6 3             
-x-z        5-8      x x 0 0 6 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 5 6 3            3-6     
+x-z        x x 0 0 6 8            5-8     
 
 === D 9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      x x 0 5 7 0             
-w-y        11-14    x x 0 11 13 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x 0 5 7 0            5-8     
+w-y        x x 0 11 13 0          11-14   
 
 === D maj9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        5-8      x x 0 6 7 0             
-w-x-z      11-14    x x 0 11 14 12          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x 0 6 7 0            5-8     
+w-x-z      x x 0 11 14 12         11-14   
 
 === D 9sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        11-14    x x 0 0 13 12           
-x-y        11-14    x x 0 12 13 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x 0 0 13 12          11-14   
+x-y        x x 0 12 13 0          11-14   
 
 === D m11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x 0 5 6 3             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 5 6 3            3-6     
 
 === D maj13 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x 0 11 12 9           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 11 12 9          9-12    
 
 === D 13sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x 0 5 8 7             
-w-y-z      5-8      x x 0 5 8 7             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 0 5 8 7            5-8     
+w-y-z      x x 0 5 8 7            5-8     
 
 === D mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 5 3 6 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 5 3 6 x x            3-6     
 
 === D 7sharp9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 0 10 7 8            
-
-=== D/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x 0 0 11 10 x           
-
-=== D/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     9 12 0 11 x x           
-
-=== D/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     0 0 0 11 10 x           
-
-=== D m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        5-8      x 0 0 7 6 x             
-w-y-z      5-8      5 8 0 7 x x             
-
-=== D m/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     9 12 0 10 x x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 0 10 7 8           7-10    
 
 === D# maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 6 5 3 x x             
-x-z        5-8      x 6 8 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 6 5 3 x x            3-6     
+x-z        x 6 8 0 x x            5-8     
 
 === D# m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x 6 4 3 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 6 4 3 x x            3-6     
 
 === D# aug ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    11 14 13 0 0 x          
-w-x-z      5-8      x 6 5 8 0 x             
-w-y-z      11-14    11 14 13 0 x x          
-w-y-z      3-6      x 6 5 0 0 3             
-w-y        1-4      x x 1 0 0 3             
-w-y-z      1-4      x x 1 4 0 3             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      11 14 13 0 0 x         11-14   
+w-x-z      x 6 5 8 0 x            5-8     
+w-y-z      11 14 13 0 x x         11-14   
+w-y-z      x 6 5 0 0 3            3-6     
+w-y        x x 1 0 0 3            1-4     
+w-y-z      x x 1 4 0 3            1-4     
 
 === D# dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x x 8 7 5             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 8 7 5            5-8     
 
 === D# 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 1 3 4 x             
-x-z        3-6      x x x x 4 6             
-w-y        1-4      x x 1 3 x x             
-x-z        5-8      x 6 8 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 1 3 4 x            1-4     
+x-z        x x x x 4 6            3-6     
+w-y        x x 1 3 x x            1-4     
+x-z        x 6 8 x x x            5-8     
 
 === D# m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x 13 11 14 x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 13 11 14 x         11-14   
 
 === D# maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 6 5 0 3 x             
-w-y        1-4      x x 1 0 3 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 6 5 0 3 x            3-6     
+w-y        x x 1 0 3 x            1-4     
 
 === D# 7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 1 0 2 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 1 0 2 4            1-4     
 
 === D# 11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 1 0 2 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 1 0 2 4            1-4     
 
 === D# maj11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 1 0 3 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 1 0 3 4            1-4     
 
 === D# mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x x 8 7 10            
-w-y-z      9-12     11 9 12 x x x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 8 7 10           7-10    
+w-y-z      11 9 12 x x x          9-12    
 
 === D# maj7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    11 14 12 0 0 x          
-w-x-z      11-14    11 14 12 0 x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      11 14 12 0 0 x         11-14   
+w-x-z      11 14 12 0 x x         11-14   
 
-=== D#/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      5 6 8 0 x x             
-w-y        11-14    x 0 13 0 11 x           
+=== Eb maj ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 6 5 3 x x            3-6     
+x-z        x 6 8 0 x x            5-8     
 
-=== D#/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x x 0 0 4 6             
+=== Eb m ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 6 4 3 x x            3-6     
 
-=== D#/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      0 6 5 3 x x             
+=== Eb aug ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      11 14 13 0 0 x         11-14   
+w-x-z      x 6 5 8 0 x            5-8     
+w-y-z      11 14 13 0 x x         11-14   
+w-y-z      x 6 5 0 0 3            3-6     
+w-y        x x 1 0 0 3            1-4     
+w-y-z      x x 1 4 0 3            1-4     
 
-=== D#/F ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x 3 0 4 6             
+=== Eb dim ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 8 7 5            5-8     
 
-=== D#/G ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x x x 0 4 6             
+=== Eb 5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 1 3 4 x            1-4     
+x-z        x x x x 4 6            3-6     
+w-y        x x 1 3 x x            1-4     
+x-z        x 6 8 x x x            5-8     
 
-=== D# m/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      0 6 4 3 x x             
+=== Eb m7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 13 11 14 x         11-14   
+
+=== Eb maj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 6 5 0 3 x            3-6     
+w-y        x x 1 0 3 x            1-4     
+
+=== Eb 7add4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 1 0 2 4            1-4     
+
+=== Eb 11 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 1 0 2 4            1-4     
+
+=== Eb maj11 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 1 0 3 4            1-4     
+
+=== Eb mmaj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 8 7 10           7-10    
+w-y-z      11 9 12 x x x          9-12    
+
+=== Eb maj7sharp5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      11 14 12 0 0 x         11-14   
+w-x-z      11 14 12 0 x x         11-14   
 
 === E maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     12 11 9 x x x           
-w-y-z      11-14    0 11 14 13 0 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      12 11 9 x x x          9-12    
+w-y-z      0 11 14 13 0 0         11-14   
 
 === E m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     12 10 9 x x x           
-w-y        7-10     0 7 9 0 0 0             
-w-y        5-8      0 7 5 0 0 0             
-w-y        5-8      x 7 5 0 0 0             
-w-y        7-10     x 7 9 0 0 0             
-w-x-z      9-12     0 10 9 0 12 0           
-w-x-z      9-12     0 10 9 12 0 0           
-w-x-z      9-12     12 10 9 0 0 0           
-w-y        5-8      0 7 5 0 0 x             
-w-y        7-10     0 7 9 0 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      12 10 9 x x x          9-12    
+w-y        0 7 9 0 0 0            7-10    
+w-y        0 7 5 0 0 0            5-8     
+w-y        x 7 5 0 0 0            5-8     
+w-y        x 7 9 0 0 0            7-10    
+w-x-z      0 10 9 0 12 0          9-12    
+w-x-z      0 10 9 12 0 0          9-12    
+w-x-z      12 10 9 0 0 0          9-12    
+w-y        0 7 5 0 0 x            5-8     
+w-y        0 7 9 0 0 x            7-10    
 
 === E sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 14 11 12 x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 14 11 12 x         11-14   
 
 === E sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x x 9 10 7            
-w-y        7-10     0 0 7 9 0 0             
-x-z        1-4      0 0 2 4 0 0             
-x-z        1-4      0 0 2 4 0 x             
-w-y        7-10     0 0 7 9 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 9 10 7           7-10    
+w-y        0 0 7 9 0 0            7-10    
+x-z        0 0 2 4 0 0            1-4     
+x-z        0 0 2 4 0 x            1-4     
+w-y        0 0 7 9 0 x            7-10    
 
 === E add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      0 2 4 1 0 0             
-w-x-z      1-4      0 2 4 1 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      0 2 4 1 0 0            1-4     
+w-x-z      0 2 4 1 0 x            1-4     
 
 === E add9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      0 2 4 1 0 0             
-w-x-z      1-4      0 2 4 1 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      0 2 4 1 0 0            1-4     
+w-x-z      0 2 4 1 0 x            1-4     
 
 === E add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      0 0 6 4 0 0             
-w-x-z      1-4      0 0 2 1 0 4             
-x-z        3-6      0 0 6 4 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 0 6 4 0 0            3-6     
+w-x-z      0 0 2 1 0 4            1-4     
+x-z        0 0 6 4 0 x            3-6     
 
 === E madd2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      0 2 4 0 0 0             
-x-z        1-4      0 2 4 0 0 x             
-w-y-z      7-10     0 10 9 0 7 0            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 2 4 0 0 0            1-4     
+x-z        0 2 4 0 0 x            1-4     
+w-y-z      0 10 9 0 7 0           7-10    
 
 === E madd9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      0 2 4 0 0 0             
-x-z        1-4      0 2 4 0 0 x             
-w-y-z      7-10     0 10 9 0 7 0            
-w-y-z      7-10     0 10 9 0 7 x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 2 4 0 0 0            1-4     
+x-z        0 2 4 0 0 x            1-4     
+w-y-z      0 10 9 0 7 0           7-10    
+w-y-z      0 10 9 0 7 x           7-10    
 
 === E madd4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    0 0 14 12 0 0           
-x-z        11-14    0 12 14 0 0 0           
-x-y        3-6      0 0 5 4 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 0 14 12 0 0          11-14   
+x-z        0 12 14 0 0 0          11-14   
+x-y        0 0 5 4 0 0            3-6     
 
 === E add2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      0 0 4 1 0 2             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      0 0 4 1 0 2            1-4     
 
 === E madd2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        7-10     0 9 7 0 0 0             
-w-y        7-10     0 0 9 0 7 0             
-w-y        7-10     0 9 7 0 0 x             
-x-z        1-4      0 0 4 0 0 2             
-x-y        3-6      0 0 4 0 0 5             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 9 7 0 0 0            7-10    
+w-y        0 0 9 0 7 0            7-10    
+w-y        0 9 7 0 0 x            7-10    
+x-z        0 0 4 0 0 2            1-4     
+x-y        0 0 4 0 0 5            3-6     
 
 === E aug ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      0 3 6 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      0 3 6 5 x x            3-6     
 
 === E dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 14 12 11 x          
-w-y-z      11-14    0 13 14 0 11 0          
-w-y-z      5-8      0 7 8 0 5 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 14 12 11 x         11-14   
+w-y-z      0 13 14 0 11 0         11-14   
+w-y-z      0 7 8 0 5 0            5-8     
 
 === E 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      x x x x 5 7             
-x-z        1-4      x x 2 4 x x             
-x-z        1-4      x x 2 4 0 0             
-x-z        1-4      x x 2 4 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 5 7            5-8     
+x-z        x x 2 4 x x            1-4     
+x-z        x x 2 4 0 0            1-4     
+x-z        x x 2 4 0 x            1-4     
 
 === E 6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      0 4 2 1 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      0 4 2 1 0 0            1-4     
 
 === E m6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        3-6      0 4 5 0 0 0             
-x-y        9-12     0 10 11 0 0 0           
-x-z        1-4      0 4 2 0 0 0             
-w-x-z      11-14    0 14 11 12 0 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        0 4 5 0 0 0            3-6     
+x-y        0 10 11 0 0 0          9-12    
+x-z        0 4 2 0 0 0            1-4     
+w-x-z      0 14 11 12 0 0         11-14   
 
 === E m6.9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        9-12     0 9 11 0 0 0            
-w-y-z      9-12     0 9 11 12 0 0           
-w-y-z      9-12     0 9 11 12 0 x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 9 11 0 0 0           9-12    
+w-y-z      0 9 11 12 0 0          9-12    
+w-y-z      0 9 11 12 0 x          9-12    
 
 === E 6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    0 11 0 13 14 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      0 11 0 13 14 0         11-14   
 
 === E 7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     0 11 12 9 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      0 11 12 9 0 0          9-12    
 
 === E m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    0 14 12 0 0 0           
-x-z        9-12     0 10 12 0 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 14 12 0 0 0          11-14   
+x-z        0 10 12 0 0 0          9-12    
 
 === E maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 2 1 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 2 1 4 x            1-4     
 
 === E 7sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    0 0 0 14 12 0           
-x-z        11-14    0 0 12 14 0 0           
-w-y        7-10     0 0 9 7 0 0             
-x-y        3-6      0 0 0 4 5 0             
-x-y        1-4      0 0 0 2 3 0             
-w-y        5-8      0 0 0 7 5 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 0 0 14 12 0          11-14   
+x-z        0 0 12 14 0 0          11-14   
+w-y        0 0 9 7 0 0            7-10    
+x-y        0 0 0 4 5 0            3-6     
+x-y        0 0 0 2 3 0            1-4     
+w-y        0 0 0 7 5 0            5-8     
 
 === E 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x x 9 7 10            
-w-x-z      11-14    0 14 12 11 0 0          
-w-y        9-12     0 9 0 11 0 0            
-w-y        7-10     0 9 0 7 0 0             
-w-y-z      9-12     0 9 12 11 0 0           
-w-x-z      11-14    0 14 0 11 12 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 9 7 10           7-10    
+w-x-z      0 14 12 11 0 0         11-14   
+w-y        0 9 0 11 0 0           9-12    
+w-y        0 9 0 7 0 0            7-10    
+w-y-z      0 9 12 11 0 0          9-12    
+w-x-z      0 14 0 11 12 0         11-14   
 
 === E 7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        11-14    0 0 0 13 12 0           
-x-y        11-14    0 0 12 13 0 0           
-w-y        7-10     0 0 0 7 9 0             
-x-y        5-8      0 0 6 7 0 0             
-w-y        1-4      0 0 0 1 3 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        0 0 0 13 12 0          11-14   
+x-y        0 0 12 13 0 0          11-14   
+w-y        0 0 0 7 9 0            7-10    
+x-y        0 0 6 7 0 0            5-8     
+w-y        0 0 0 1 3 0            1-4     
 
 === E m7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-                    0 0 0 0 0 0             
-x-y        7-10     0 0 0 9 8 0             
-x-z        7-10     0 0 0 0 8 10            
-w-y        5-8      0 0 5 7 0 0             
-w-y        3-6      0 0 0 0 5 3             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+           0 0 0 0 0 0                    
+x-y        0 0 0 9 8 0            7-10    
+x-z        0 0 0 0 8 10           7-10    
+w-y        0 0 5 7 0 0            5-8     
+w-y        0 0 0 0 5 3            3-6     
 
 === E m9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        3-6      0 5 4 0 0 0             
-x-y        9-12     0 10 0 11 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        0 5 4 0 0 0            3-6     
+x-y        0 10 0 11 0 0          9-12    
 
 === E 9sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        7-10     0 0 0 9 7 0             
-x-y        9-12     0 0 0 11 10 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 0 0 9 7 0            7-10    
+x-y        0 0 0 11 10 0          9-12    
 
 === E 11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    0 11 12 14 0 0          
-w-x-z      11-14    0 11 12 14 0 x          
-x-y        11-14    0 12 0 13 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      0 11 12 14 0 0         11-14   
+w-x-z      0 11 12 14 0 x         11-14   
+x-y        0 12 0 13 0 0          11-14   
 
 === E m11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      0 5 7 0 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 5 7 0 0 0            5-8     
 
 === E maj11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    0 11 13 14 0 0          
-w-y-z      11-14    0 11 13 14 0 x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      0 11 13 14 0 0         11-14   
+w-y-z      0 11 13 14 0 x         11-14   
 
 === E 13sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      0 0 0 4 2 0             
-x-y        5-8      0 0 0 6 7 0             
-w-y-z      9-12     0 0 0 11 12 9           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 0 0 4 2 0            1-4     
+x-y        0 0 0 6 7 0            5-8     
+w-y-z      0 0 0 11 12 9          9-12    
 
 === E mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x 7 5 8 x x             
-w-y-z      5-8      0 7 5 8 0 0             
-w-x-z      1-4      0 2 1 0 4 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 7 5 8 x x            5-8     
+w-y-z      0 7 5 8 0 0            5-8     
+w-x-z      0 2 1 0 4 0            1-4     
 
 === E mmaj9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      0 6 4 0 0 0             
-x-z        3-6      0 6 4 0 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        0 6 4 0 0 0            3-6     
+x-z        0 6 4 0 0 x            3-6     
 
 === E 7sharp9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        7-10     0 7 0 0 9 0             
-w-y        9-12     0 11 0 0 9 0            
-w-y-z      9-12     0 11 0 12 9 0           
-w-y-z      9-12     0 11 12 0 9 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 7 0 0 9 0            7-10    
+w-y        0 11 0 0 9 0           9-12    
+w-y-z      0 11 0 12 9 0          9-12    
+w-y-z      0 11 12 0 9 0          9-12    
 
 === E 7b9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     0 11 0 10 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        0 11 0 10 0 0          9-12    
 
 === E m7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        3-6      0 3 0 0 5 0             
-w-y        1-4      0 3 0 0 1 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        0 3 0 0 5 0            3-6     
+w-y        0 3 0 0 1 0            1-4     
 
 === E m7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     0 10 0 0 11 0           
-w-y        11-14    0 13 0 0 11 0           
-
-=== E/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x 0 6 4 0 0             
-w-x-z      1-4      x 0 2 1 0 4             
-
-=== E/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 4 2 1 0 0             
-w-x-z      1-4      x 4 2 1 0 x             
-
-=== E/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        11-14    x x 0 13 12 0           
-x-y        11-14    x x 0 13 0 12           
-
-=== E/F ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x x 3 1 0 0             
-
-=== E/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 11 14 13 0 0          
-x-z        3-6      x x 6 4 0 0             
-w-y-z      11-14    x 11 14 13 0 x          
-
-=== E m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    x 0 14 12 0 0           
-x-y        3-6      x 0 5 4 0 0             
-
-=== E m/B ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     7 10 9 0 0 0            
-
-=== E m/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x 4 2 0 0 0             
-x-y        3-6      x 4 5 0 0 0             
-x-z        1-4      x 4 2 0 0 x             
-
-=== E m/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-                    x x 0 0 0 0             
-w-y        5-8      x x 0 0 5 7             
-w-y-z      7-10     10 7 9 0 0 0            
-w-y-z      7-10     10 7 9 0 0 x            
-
-=== E m/F ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        7-10     x 8 9 0 0 0             
-
-=== E m/G ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-                    x x x 0 0 0             
-x-y        3-6      x x 5 4 0 0             
-w-x-z      9-12     x 10 9 12 0 0           
-w-y        5-8      x x x 0 5 7             
-
-=== E m/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x 11 9 12 0 0           
-w-x-z      11-14    x 11 14 12 0 0          
-w-x-z      11-14    x 11 14 12 0 x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        0 10 0 0 11 0          9-12    
+w-y        0 13 0 0 11 0          11-14   
 
 === F maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x 8 7 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 8 7 5 x x            5-8     
 
 === F m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x 8 6 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 8 6 5 x x            5-8     
 
 === F sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x x 3 0 1 x             
-x-z        7-10     x 8 10 0 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x 3 0 1 x            1-4     
+x-z        x 8 10 0 x x           7-10    
 
 === F madd2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 3 0 1 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 3 0 1 4            1-4     
 
 === F dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x x 10 9 7            
-w-y-z      1-4      x x 3 1 0 4             
-w-y        1-4      x x 3 1 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 10 9 7           7-10    
+w-y-z      x x 3 1 0 4            1-4     
+w-y        x x 3 1 0 x            1-4     
 
 === F 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x 3 5 6 x             
-x-z        5-8      x x x x 6 8             
-w-y        3-6      x x 3 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 3 5 6 x            3-6     
+x-z        x x x x 6 8            5-8     
+w-y        x x 3 5 x x            3-6     
 
 === F 6.9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      1 0 0 0 3 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        1 0 0 0 3 x            1-4     
 
 === F 6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      1 0 0 2 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      1 0 0 2 4 x            1-4     
 
 === F m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 3 1 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 3 1 4 x            1-4     
 
 === F 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 3 0 4 1             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 3 0 4 1            1-4     
 
 === F 9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      1 0 3 0 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      1 0 3 0 4 x            1-4     
 
 === F mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x x x 10 9 12           
-w-y-z      11-14    13 11 14 x x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 10 9 12          9-12    
+w-y-z      13 11 14 x x x         11-14   
 
 === F maj7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        1-4      x x 3 2 0 0             
-w-x-z      7-10     x 8 7 10 0 0            
-w-y-z      1-4      1 0 3 4 0 0             
-w-x-z      1-4      1 0 2 4 0 0             
-w-x-z      1-4      1 0 2 4 0 x             
-
-=== F/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 0 3 5 6 x             
-w-y        3-6      x 0 3 5 x x             
-
-=== F/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      0 0 3 5 6 x             
-w-y-z      5-8      0 8 7 5 x x             
-
-=== F m/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      0 8 6 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x 3 2 0 0            1-4     
+w-x-z      x 8 7 10 0 0           7-10    
+w-y-z      1 0 3 4 0 0            1-4     
+w-x-z      1 0 2 4 0 0            1-4     
+w-x-z      1 0 2 4 0 x            1-4     
 
 === F# maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    14 13 11 x x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      14 13 11 x x x         11-14   
 
 === F# m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    14 12 11 x x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      14 12 11 x x x         11-14   
 
 === F# sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 4 1 2 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 1 2 x            1-4     
 
 === F# sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x x 11 12 9           
-x-z        3-6      x x 4 6 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 11 12 9          9-12    
+x-z        x x 4 6 0 x            3-6     
 
 === F# dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 4 2 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 2 1 x            1-4     
 
 === F# 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        7-10     x x x x 7 9             
-x-z        3-6      x x 4 6 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 7 9            7-10    
+x-z        x x 4 6 x x            3-6     
 
 === F# maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x 4 3 6 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 3 6 x            3-6     
 
 === F# 7sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x x 4 6 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 4 6 0 0            3-6     
 
 === F# 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x x 11 9 12           
-w-x-z      1-4      x x 4 1 2 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 11 9 12          9-12    
+w-x-z      x x 4 1 2 0            1-4     
 
 === F# m7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x x 4 2 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 4 2 0 0            1-4     
 
 === F# m11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      2 0 4 1 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      2 0 4 1 0 0            1-4     
 
 === F# mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x 9 7 10 x x            
-x-y        1-4      2 0 3 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 9 7 10 x x           7-10    
+x-y        2 0 3 x x x            1-4     
 
 === F# 7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x 4 3 1 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 4 3 1 0            1-4     
 
 === F# m7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 4 2 1 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 2 1 0            1-4     
 
-=== F# m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x 0 4 6 x x             
+=== Gb maj ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      14 13 11 x x x         11-14   
 
-=== F# m/G ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      3 0 4 6 x x             
+=== Gb m ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      14 12 11 x x x         11-14   
+
+=== Gb sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 1 2 x            1-4     
+
+=== Gb sus4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 11 12 9          9-12    
+x-z        x x 4 6 0 x            3-6     
+
+=== Gb dim ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 2 1 x            1-4     
+
+=== Gb 5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 7 9            7-10    
+x-z        x x 4 6 x x            3-6     
+
+=== Gb maj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 3 6 x            3-6     
+
+=== Gb 7sus4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 4 6 0 0            3-6     
+
+=== Gb 7sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 11 9 12          9-12    
+w-x-z      x x 4 1 2 0            1-4     
+
+=== Gb m7add4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x 4 2 0 0            1-4     
+
+=== Gb m11 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      2 0 4 1 0 0            1-4     
+
+=== Gb mmaj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 9 7 10 x x           7-10    
+x-y        2 0 3 x x x            1-4     
+
+=== Gb 7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 4 3 1 0            1-4     
+
+=== Gb m7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 4 2 1 0            1-4     
 
 === G maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x 10 9 7 x x            
-x-y        1-4      3 2 0 0 0 x             
-w-y        3-6      3 5 0 0 0 x             
-w-y-z      7-10     x 10 9 7 0 x            
-x-y        1-4      3 2 0 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 10 9 7 x x           7-10    
+x-y        3 2 0 0 0 x            1-4     
+w-y        3 5 0 0 0 x            3-6     
+w-y-z      x 10 9 7 0 x           7-10    
+x-y        3 2 0 0 x x            1-4     
 
 === G m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x 10 8 7 x x            
-w-y        1-4      3 1 0 0 x x             
-x-y        9-12     x x x 0 11 10           
-w-y        1-4      3 1 0 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 10 8 7 x x           7-10    
+w-y        3 1 0 0 x x            1-4     
+x-y        x x x 0 11 10          9-12    
+w-y        3 1 0 x x x            1-4     
 
 === G sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        3-6      x x x 0 3 5             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x 0 3 5            3-6     
 
 === G add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        1-4      3 0 0 2 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        3 0 0 2 0 x            1-4     
 
 === G add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x 5 7 0 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 5 7 0 8            5-8     
 
 === G add2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        3-6      3 0 0 5 0 x             
-w-y-z      1-4      3 0 0 4 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        3 0 0 5 0 x            3-6     
+w-y-z      3 0 0 4 1 x            1-4     
 
 === G aug ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      3 6 5 0 0 x             
-w-y-z      5-8      x x 5 8 0 7             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      3 6 5 0 0 x            3-6     
+w-y-z      x x 5 8 0 7            5-8     
 
 === G dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x x 12 11 9           
-w-y        9-12     x x x 0 11 9            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 12 11 9          9-12    
+w-y        x x x 0 11 9           9-12    
 
 === G 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x 5 7 8 x             
-x-z        7-10     x x x x 8 10            
-w-y        5-8      x x 5 7 x x             
-x-z        7-10     x x x 0 8 10            
-w-y        3-6      3 5 0 0 x x             
-w-y        3-6      3 5 0 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 5 7 8 x            5-8     
+x-z        x x x x 8 10           7-10    
+w-y        x x 5 7 x x            5-8     
+x-z        x x x 0 8 10           7-10    
+w-y        3 5 0 0 x x            3-6     
+w-y        3 5 0 x x x            3-6     
 
 === G 6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        1-4      3 2 0 0 0 0             
-w-y        3-6      3 5 0 0 0 0             
-                    x x x 0 0 0             
-w-y-z      7-10     x 10 9 7 0 0            
-x-y        3-6      x x 5 4 0 0             
-w-y        5-8      x x 5 7 0 0             
-w-x-z      9-12     x 10 9 12 0 0           
-w-x-z      9-12     x 10 12 9 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        3 2 0 0 0 0            1-4     
+w-y        3 5 0 0 0 0            3-6     
+           x x x 0 0 0                    
+w-y-z      x 10 9 7 0 0           7-10    
+x-y        x x 5 4 0 0            3-6     
+w-y        x x 5 7 0 0            5-8     
+w-x-z      x 10 9 12 0 0          9-12    
+w-x-z      x 10 12 9 0 0          9-12    
 
 === G m6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x 5 3 6 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 5 3 6 0            3-6     
 
 === G 7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        5-8      x x x 0 6 7             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x x x 0 6 7            5-8     
 
 === G m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x x 5 3 6 x             
-w-y        11-14    x x x 0 11 13           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 5 3 6 x            3-6     
+w-y        x x x 0 11 13          11-14   
 
 === G maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    x x x 0 12 14           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x x 0 12 14          11-14   
 
 === G 7sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      x x x 0 6 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x x x 0 6 8            5-8     
 
 === G 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      3 0 0 0 6 5             
-w-y-z      3-6      3 0 5 0 6 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      3 0 0 0 6 5            3-6     
+w-y-z      3 0 5 0 6 x            3-6     
 
 === G mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x x 12 11 14          
-w-y-z      1-4      3 1 4 x x x             
-w-y-z      1-4      3 1 4 0 x x             
-x-y        5-8      x x x 0 7 6             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 12 11 14         11-14   
+w-y-z      3 1 4 x x x            1-4     
+w-y-z      3 1 4 0 x x            1-4     
+x-y        x x x 0 7 6            5-8     
 
 === G maj7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      3 6 4 0 0 x             
-
-=== G/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        9-12     x 0 0 0 12 10           
-                    x 0 0 0 0 x             
-w-x-z      9-12     x 0 9 0 12 10           
-w-x-z      9-12     x 0 9 12 0 10           
-x-z        9-12     x 0 0 12 0 10           
-
-=== G/A# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      6 5 0 0 0 3             
-w-y-z      1-4      x 1 0 4 0 3             
-w-y        1-4      x 1 0 0 0 3             
-
-=== G/B ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      7 5 0 0 0 x             
-w-y-z      5-8      7 5 0 0 8 x             
-w-y        5-8      7 5 0 0 x x             
-w-x-z      7-10     7 10 0 0 8 x            
-
-=== G/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     9 10 12 0 0 x           
-w-y-z      7-10     9 10 0 7 0 x            
-w-x-z      9-12     9 10 0 0 12 x           
-w-x-z      9-12     9 10 0 12 0 x           
-w-y-z      7-10     9 10 0 0 0 7            
-
-=== G/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-                    x x 0 0 0 x             
-x-z        9-12     x x 0 0 12 10           
-x-z        9-12     x x 0 12 0 10           
-
-=== G/D# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    11 14 12 0 0 x          
-w-x-z      11-14    11 14 12 0 x x          
-
-=== G/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     0 10 9 7 0 x            
-x-z        9-12     0 10 12 0 0 x           
-x-z        11-14    0 14 12 0 0 x           
-
-=== G/F ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x 8 5 7 0 x             
-
-=== G/F# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x 9 12 0 0 10           
-
-=== G/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      4 2 0 0 0 x             
-x-y        3-6      4 5 0 0 0 x             
-x-z        1-4      4 2 0 0 x x             
-
-=== G m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      x 0 0 0 8 6             
-x-y        9-12     x 0 0 0 11 10           
-w-y-z      3-6      x 0 5 0 3 6             
-
-=== G m/A# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      6 5 8 0 x x             
-w-x-z      5-8      6 5 0 0 8 x             
-w-y-z      3-6      6 5 0 0 3 x             
-w-y        1-4      x 1 0 0 3 x             
-
-=== G m/B ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      7 5 8 0 x x             
-
-=== G m/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x 4 0 0 3 6             
-
-=== G m/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      x x 0 0 8 6             
-x-y        9-12     x x 0 0 11 10           
-
-=== G m/F# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x 4 0 3 6             
-w-y-z      9-12     x 9 12 0 11 x           
-
-=== G m/G# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      4 1 0 0 3 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      3 6 4 0 0 x            3-6     
 
 === G# maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      4 3 1 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      4 3 1 x x x            1-4     
 
 === G# m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      4 2 1 x x x             
-x-z        5-8      x x 6 8 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      4 2 1 x x x            1-4     
+x-z        x x 6 8 0 x            5-8     
 
 === G# sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x 6 3 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 3 4 x            3-6     
 
 === G# sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x x 13 14 11          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 13 14 11         11-14   
 
 === G# dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x 6 4 3 x             
-w-x-z      1-4      4 2 0 1 0 x             
-w-x-z      1-4      4 2 0 1 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 4 3 x            3-6     
+w-x-z      4 2 0 1 0 x            1-4     
+w-x-z      4 2 0 1 x x            1-4     
 
 === G# 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        9-12     x x x x 9 11            
-x-z        5-8      x x 6 8 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 9 11           9-12    
+x-z        x x 6 8 x x            5-8     
 
 === G# maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 6 5 8 x             
-w-y-z      1-4      4 3 1 0 x x             
-w-x-z      3-6      4 3 6 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 5 8 x            5-8     
+w-y-z      4 3 1 0 x x            1-4     
+w-x-z      4 3 6 0 x x            3-6     
 
 === G# 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x x 13 11 14          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 13 11 14         11-14   
 
 === G# mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x 11 9 12 x x           
-w-y-z      9-12     x 11 9 12 0 x           
-w-x-z      1-4      4 2 1 0 0 x             
-w-x-z      1-4      4 2 1 0 x x             
-w-x-z      3-6      x x 6 4 0 3             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 11 9 12 x x          9-12    
+w-y-z      x 11 9 12 0 x          9-12    
+w-x-z      4 2 1 0 0 x            1-4     
+w-x-z      4 2 1 0 x x            1-4     
+w-x-z      x x 6 4 0 3            3-6     
 
 === G# maj7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 6 5 8 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 5 8 0            5-8     
 
 === G# maj7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      4 3 0 0 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      4 3 0 0 1 x            1-4     
 
-=== G# m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      x 0 6 8 0 x             
+=== Ab maj ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      4 3 1 x x x            1-4     
 
-=== G# m/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x 5 6 8 0 x             
-w-y        11-14    x x 0 13 0 11           
+=== Ab m ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      4 2 1 x x x            1-4     
+x-z        x x 6 8 0 x            5-8     
+
+=== Ab sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 3 4 x            3-6     
+
+=== Ab sus4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 13 14 11         11-14   
+
+=== Ab dim ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 4 3 x            3-6     
+w-x-z      4 2 0 1 0 x            1-4     
+w-x-z      4 2 0 1 x x            1-4     
+
+=== Ab 5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 9 11           9-12    
+x-z        x x 6 8 x x            5-8     
+
+=== Ab maj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 5 8 x            5-8     
+w-y-z      4 3 1 0 x x            1-4     
+w-x-z      4 3 6 0 x x            3-6     
+
+=== Ab 7sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 13 11 14         11-14   
+
+=== Ab mmaj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 11 9 12 x x          9-12    
+w-y-z      x 11 9 12 0 x          9-12    
+w-x-z      4 2 1 0 0 x            1-4     
+w-x-z      4 2 1 0 x x            1-4     
+w-x-z      x x 6 4 0 3            3-6     
+
+=== Ab maj7sharp5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 6 5 8 0            5-8     
+
+=== Ab maj7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      4 3 0 0 1 x            1-4     
 
 === A maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x 12 11 9 x x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 12 11 9 x x          9-12    
 
 === A m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      9-12     x 12 10 9 x x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 12 10 9 x x          9-12    
 
 === A sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x 0 2 4 0 0             
-w-y        7-10     x 0 7 9 0 0             
-w-y        7-10     x x 7 9 0 0             
-x-z        1-4      x 0 2 4 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 2 4 0 0            1-4     
+w-y        x 0 7 9 0 0            7-10    
+w-y        x x 7 9 0 0            7-10    
+x-z        x 0 2 4 0 x            1-4     
 
 === A sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        1-4      x 0 0 2 3 0             
-w-y        5-8      x 0 0 7 5 0             
-w-x-z      9-12     x 0 0 9 10 12           
-w-x-z      9-12     x 0 12 9 10 0           
-w-x-z      9-12     x 0 12 9 10 x           
-x-y        1-4      x x x 2 3 0             
-w-y        5-8      x 0 0 7 5 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 0 2 3 0            1-4     
+w-y        x 0 0 7 5 0            5-8     
+w-x-z      x 0 0 9 10 12          9-12    
+w-x-z      x 0 12 9 10 0          9-12    
+w-x-z      x 0 12 9 10 x          9-12    
+x-y        x x x 2 3 0            1-4     
+w-y        x 0 0 7 5 x            5-8     
 
 === A add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        5-8      x 0 7 6 0 0             
-w-y        9-12     x 0 11 9 0 0            
-w-y-z      9-12     x 0 11 9 12 0           
-w-y-z      9-12     x 12 11 9 0 0           
-w-y-z      9-12     x 0 11 9 0 12           
-w-x-z      11-14    x 0 11 14 12 0          
-w-x-z      11-14    x 12 11 14 0 0          
-w-y-z      9-12     x 0 11 9 12 x           
-w-y-z      9-12     x 12 11 9 0 x           
-x-y        5-8      x x 7 6 0 0             
-w-x-z      11-14    x 0 11 14 0 12          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 7 6 0 0            5-8     
+w-y        x 0 11 9 0 0           9-12    
+w-y-z      x 0 11 9 12 0          9-12    
+w-y-z      x 12 11 9 0 0          9-12    
+w-y-z      x 0 11 9 0 12          9-12    
+w-x-z      x 0 11 14 12 0         11-14   
+w-x-z      x 12 11 14 0 0         11-14   
+w-y-z      x 0 11 9 12 x          9-12    
+w-y-z      x 12 11 9 0 x          9-12    
+x-y        x x 7 6 0 0            5-8     
+w-x-z      x 0 11 14 0 12         11-14   
 
 === A add9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        5-8      x 0 7 6 0 0             
-w-y        9-12     x 0 11 9 0 0            
-w-y-z      9-12     x 0 11 9 12 0           
-w-y-z      9-12     x 0 11 9 0 12           
-w-x-z      11-14    x 0 11 14 12 0          
-w-y-z      9-12     x 0 11 9 12 x           
-w-x-z      11-14    x 0 11 14 0 12          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 7 6 0 0            5-8     
+w-y        x 0 11 9 0 0           9-12    
+w-y-z      x 0 11 9 12 0          9-12    
+w-y-z      x 0 11 9 0 12          9-12    
+w-x-z      x 0 11 14 12 0         11-14   
+w-y-z      x 0 11 9 12 x          9-12    
+w-x-z      x 0 11 14 0 12         11-14   
 
 === A madd2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      x 0 7 5 0 0             
-w-y        5-8      x x 7 5 0 0             
-w-y-z      7-10     x 0 10 9 0 7            
-w-x-z      9-12     x 0 10 9 0 12           
-w-x-z      9-12     x 0 10 9 12 0           
-w-x-z      1-4      x 0 2 4 1 0             
-w-x-z      9-12     x 12 10 9 0 0           
-w-x-z      9-12     x 0 10 9 12 x           
-w-x-z      9-12     x 12 10 9 0 x           
-w-x-z      1-4      x 0 2 4 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 7 5 0 0            5-8     
+w-y        x x 7 5 0 0            5-8     
+w-y-z      x 0 10 9 0 7           7-10    
+w-x-z      x 0 10 9 0 12          9-12    
+w-x-z      x 0 10 9 12 0          9-12    
+w-x-z      x 0 2 4 1 0            1-4     
+w-x-z      x 12 10 9 0 0          9-12    
+w-x-z      x 0 10 9 12 x          9-12    
+w-x-z      x 12 10 9 0 x          9-12    
+w-x-z      x 0 2 4 1 x            1-4     
 
 === A madd9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        5-8      x 0 7 5 0 0             
-w-x-z      9-12     x 0 10 9 0 12           
-w-y-z      7-10     x 0 10 9 0 7            
-w-x-z      9-12     x 0 10 9 12 0           
-w-x-z      1-4      x 0 2 4 1 0             
-w-x-z      9-12     x 0 10 9 12 x           
-w-x-z      1-4      x 0 2 4 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 7 5 0 0            5-8     
+w-x-z      x 0 10 9 0 12          9-12    
+w-y-z      x 0 10 9 0 7           7-10    
+w-x-z      x 0 10 9 12 0          9-12    
+w-x-z      x 0 2 4 1 0            1-4     
+w-x-z      x 0 10 9 12 x          9-12    
+w-x-z      x 0 2 4 1 x            1-4     
 
 === A madd4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        3-6      x 0 0 5 3 0             
-w-y-z      5-8      x 0 0 7 5 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 0 5 3 0            3-6     
+w-y-z      x 0 0 7 5 8            5-8     
 
 === A add2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x 0 0 4 2 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 0 4 2 0            1-4     
 
 === A madd2add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        7-10     x 0 0 9 0 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 0 9 0 8            7-10    
 
 === A aug ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x 0 11 10 x x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 11 10 x x          9-12    
 
 === A dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x x 14 13 11          
-x-z        7-10     x 0 10 8 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 14 13 11         11-14   
+x-z        x 0 10 8 x x           7-10    
 
 === A dim7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x 0 10 8 7 x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 10 8 7 x           7-10    
 
 === A 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x 7 9 10 x            
-x-z        9-12     x x x x 10 12           
-w-y        7-10     x x 7 9 x x             
-w-y-z      7-10     x 0 7 9 10 0            
-w-y-z      7-10     x x 7 9 10 0            
-w-y-z      7-10     x 0 7 9 10 x            
-w-y        7-10     x 0 7 9 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 7 9 10 x           7-10    
+x-z        x x x x 10 12          9-12    
+w-y        x x 7 9 x x            7-10    
+w-y-z      x 0 7 9 10 0           7-10    
+w-y-z      x x 7 9 10 0           7-10    
+w-y-z      x 0 7 9 10 x           7-10    
+w-y        x 0 7 9 x x            7-10    
 
 === A m6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x 0 10 9 7 0            
-w-x-z      1-4      x 0 4 2 1 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 10 9 7 0           7-10    
+w-x-z      x 0 4 2 1 0            1-4     
 
 === A 6.9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        3-6      x 0 4 6 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 4 6 0 0            3-6     
 
 === A m6.9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x 0 10 11 0 0           
-x-y        3-6      x 0 4 5 0 0             
-x-y        3-6      x 0 4 5 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 10 11 0 0          9-12    
+x-y        x 0 4 5 0 0            3-6     
+x-y        x 0 4 5 0 x            3-6     
 
 === A 6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        1-4      x 0 4 0 2 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 4 0 2 0            1-4     
 
 === A m6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x 0 10 0 7 8            
-w-x-z      1-4      x 0 4 0 1 2             
-w-y-z      5-8      x 0 5 0 7 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 10 0 7 8           7-10    
+w-x-z      x 0 4 0 1 2            1-4     
+w-y-z      x 0 5 0 7 8            5-8     
 
 === A maj6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 0 4 1 2 0             
-w-x-z      1-4      x 0 4 1 2 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 4 1 2 0            1-4     
+w-x-z      x 0 4 1 2 x            1-4     
 
 === A 7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x 0 11 12 14 0          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 11 12 14 0         11-14   
 
 === A m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      5-8      x x 7 5 8 x             
-w-y-z      5-8      x 0 7 5 8 0             
-w-y-z      5-8      x 0 7 5 8 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 7 5 8 x            5-8     
+w-y-z      x 0 7 5 8 0            5-8     
+w-y-z      x 0 7 5 8 x            5-8     
 
 === A maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 11 13 14 0          
-w-y-z      11-14    x 0 11 13 14 x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 11 13 14 0         11-14   
+w-y-z      x 0 11 13 14 x         11-14   
 
 === A 7sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        9-12     x 0 0 0 10 12           
-w-y        3-6      x 0 0 0 3 5             
-w-y        3-6      x 0 0 0 5 3             
-x-z        9-12     x 0 0 12 10 0           
-x-y        7-10     x 0 0 9 8 0             
-x-z        7-10     x 0 0 0 8 10            
-w-x-z      7-10     x 0 0 7 8 10            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 0 0 10 12          9-12    
+w-y        x 0 0 0 3 5            3-6     
+w-y        x 0 0 0 5 3            3-6     
+x-z        x 0 0 12 10 0          9-12    
+x-y        x 0 0 9 8 0            7-10    
+x-z        x 0 0 0 8 10           7-10    
+w-x-z      x 0 0 7 8 10           7-10    
 
 === A 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        11-14    x 0 14 12 0 0           
-x-y        3-6      x 0 5 4 0 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 14 12 0 0          11-14   
+x-y        x 0 5 4 0 0            3-6     
 
 === A 7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        5-8      x 0 0 6 8 0             
-x-y        1-4      x 0 0 0 2 3             
-x-z        11-14    x 0 0 0 14 12           
-x-y        7-10     x 0 0 0 8 9             
-x-z        11-14    x 0 0 12 14 0           
-w-y-z      3-6      x 0 0 6 5 3             
-w-y-z      3-6      x 0 5 6 3 0             
-w-x-z      9-12     x 0 0 12 10 9           
-w-x-z      9-12     x 0 12 0 10 9           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 0 6 8 0            5-8     
+x-y        x 0 0 0 2 3            1-4     
+x-z        x 0 0 0 14 12          11-14   
+x-y        x 0 0 0 8 9            7-10    
+x-z        x 0 0 12 14 0          11-14   
+w-y-z      x 0 0 6 5 3            3-6     
+w-y-z      x 0 5 6 3 0            3-6     
+w-x-z      x 0 0 12 10 9          9-12    
+w-x-z      x 0 12 0 10 9          9-12    
 
 === A m7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        1-4      x 0 0 0 1 3             
-x-z        7-10     x 0 0 0 10 8            
-x-y        11-14    x 0 0 0 13 12           
-x-y        11-14    x 0 0 12 13 0           
-w-x-z      7-10     x 0 10 7 8 0            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 0 0 1 3            1-4     
+x-z        x 0 0 0 10 8           7-10    
+x-y        x 0 0 0 13 12          11-14   
+x-y        x 0 0 12 13 0          11-14   
+w-x-z      x 0 10 7 8 0           7-10    
 
 === A 9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x 0 11 0 12 9           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 11 0 12 9          9-12    
 
 === A m9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-z        9-12     x 0 10 12 0 0           
-w-x-z      7-10     x 0 10 0 8 7            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-z        x 0 10 12 0 0          9-12    
+w-x-z      x 0 10 0 8 7           7-10    
 
 === A maj9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x 0 11 13 0 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 11 13 0 0          11-14   
 
 === A 9sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-                    x 0 0 0 0 0             
-w-y        5-8      5 7 0 0 0 0             
-x-z        9-12     x 0 0 0 12 10           
-w-y        5-8      x 0 0 0 5 7             
-w-y        5-8      x 0 5 7 0 0             
-                    x 0 0 0 0 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+           x 0 0 0 0 0                    
+w-y        5 7 0 0 0 0            5-8     
+x-z        x 0 0 0 12 10          9-12    
+w-y        x 0 0 0 5 7            5-8     
+w-y        x 0 5 7 0 0            5-8     
+           x 0 0 0 0 x                    
 
 === A 11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      x 0 5 6 3 0             
-w-x-z      9-12     x 0 12 0 10 9           
-w-y-z      3-6      x 0 5 6 3 x             
-x-y        9-12     x 0 11 0 0 10           
-x-z        11-14    x 0 12 0 14 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 5 6 3 0            3-6     
+w-x-z      x 0 12 0 10 9          9-12    
+w-y-z      x 0 5 6 3 x            3-6     
+x-y        x 0 11 0 0 10          9-12    
+x-z        x 0 12 0 14 0          11-14   
 
 === A m11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x 0 10 7 8 0            
-w-x-z      7-10     x 0 10 7 8 x            
-w-y-z      5-8      x 0 5 7 0 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 10 7 8 0           7-10    
+w-x-z      x 0 10 7 8 x           7-10    
+w-y-z      x 0 5 7 0 8            5-8     
 
 === A 13 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x 0 11 0 12 14          
-w-x-z      11-14    x 0 11 12 0 14          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 11 0 12 14         11-14   
+w-x-z      x 0 11 12 0 14         11-14   
 
 === A m13 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x 0 10 0 7 8            
-w-y-z      5-8      x 0 5 0 7 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 10 0 7 8           7-10    
+w-y-z      x 0 5 0 7 8            5-8     
 
 === A maj13 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 11 13 0 14          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 11 13 0 14         11-14   
 
 === A 13sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        1-4      x 0 0 0 3 2             
-x-y        1-4      x 0 0 0 3 2             
-x-z        11-14    x 0 0 0 12 14           
-w-y        5-8      x 0 0 0 7 5             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+x-y        x 0 0 0 3 2            1-4     
+x-y        x 0 0 0 3 2            1-4     
+x-z        x 0 0 0 12 14          11-14   
+w-y        x 0 0 0 7 5            5-8     
 
 === A mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x x 2 1 4             
-w-y-z      3-6      5 3 6 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 2 1 4            1-4     
+w-y-z      5 3 6 x x x            3-6     
 
 === A mmaj9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x 0 6 5 0 8             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 6 5 0 8            5-8     
 
 === A 7sharp9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x 0 11 0 13 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 11 0 13 0          11-14   
 
 === A 7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 11 0 14 13          
-x-y        1-4      x 0 3 0 2 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 11 0 14 13         11-14   
+x-y        x 0 3 0 2 x            1-4     
 
 === A 7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 13 0 14 11          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 0 13 0 14 11         11-14   
 
 === A m7sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x 0 5 0 6 8             
-w-y        1-4      x 0 3 0 1 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 0 5 0 6 8            5-8     
+w-y        x 0 3 0 1 x            1-4     
 
 === A 9sharp5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x 0 11 0 0 13           
-
-=== A m/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x x 11 14 13 0          
-
-=== A m/F# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 4 2 1 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x 0 11 0 0 13          11-14   
 
 === A# maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      6 5 3 x x x             
-x-z        5-8      6 8 0 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      6 5 3 x x x            3-6     
+x-z        6 8 0 x x x            5-8     
 
 === A# m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      6 4 3 x x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 4 3 x x x            3-6     
 
 === A# sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 8 5 6 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 5 6 x            5-8     
 
 === A# sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x x 3 4 1             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 3 4 1            1-4     
 
 === A# add2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      6 8 0 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 8 0 5 x x            5-8     
 
 === A# add9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      6 8 0 5 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 8 0 5 x x            5-8     
 
 === A# dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      5-8      x x 8 6 5 x             
-w-x-z      5-8      x x 8 6 5 0             
-x-y        1-4      x x x 3 2 0             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 6 5 x            5-8     
+w-x-z      x x 8 6 5 0            5-8     
+x-y        x x x 3 2 0            1-4     
 
 === A# 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y        11-14    x x x x 11 13           
-w-y        1-4      x 1 3 x x x             
-x-z        7-10     x x 8 10 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 11 13          11-14   
+w-y        x 1 3 x x x            1-4     
+x-z        x x 8 10 x x           7-10    
 
 === A# 6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      6 5 3 0 x x             
-w-x-z      5-8      6 5 8 0 x x             
-w-y-z      3-6      6 5 0 0 3 x             
-w-x-z      5-8      6 5 0 0 8 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      6 5 3 0 x x            3-6     
+w-x-z      6 5 8 0 x x            5-8     
+w-y-z      6 5 0 0 3 x            3-6     
+w-x-z      6 5 0 0 8 x            5-8     
 
 === A# m6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      6 4 3 0 x x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 4 3 0 x x            3-6     
 
 === A# 6.7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 1 0 0 3 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 1 0 0 3 4            1-4     
 
 === A# maj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 8 7 10 x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 7 10 x           7-10    
 
 === A# 7sus2 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x x 3 1 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 3 1 4            1-4     
 
 === A# maj11 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 1 0 2 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 1 0 2 4 x            1-4     
 
 === A# mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 13 11 14 x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 13 11 14 x x         11-14   
 
 === A# 7b9 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x 1 0 3 0 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 1 0 3 0 4            1-4     
 
 === A# maj7b5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      7-10     x x 8 7 10 0            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 7 10 0           7-10    
 
-=== A#/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x 0 0 10 11 x           
+=== Bb maj ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      6 5 3 x x x            3-6     
+x-z        6 8 0 x x x            5-8     
 
-=== A#/C# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x 4 0 3 6 x             
+=== Bb m ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 4 3 x x x            3-6     
 
-=== A#/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-x-y        9-12     x x 0 10 11 x           
+=== Bb sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 5 6 x            5-8     
 
-=== A#/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      3-6      0 5 0 3 6 x             
+=== Bb sus4 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 3 4 1            1-4     
+
+=== Bb add2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 8 0 5 x x            5-8     
+
+=== Bb add9 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 8 0 5 x x            5-8     
+
+=== Bb dim ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 6 5 x            5-8     
+w-x-z      x x 8 6 5 0            5-8     
+x-y        x x x 3 2 0            1-4     
+
+=== Bb 5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y        x x x x 11 13          11-14   
+w-y        x 1 3 x x x            1-4     
+x-z        x x 8 10 x x           7-10    
+
+=== Bb 6 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      6 5 3 0 x x            3-6     
+w-x-z      6 5 8 0 x x            5-8     
+w-y-z      6 5 0 0 3 x            3-6     
+w-x-z      6 5 0 0 8 x            5-8     
+
+=== Bb m6 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      6 4 3 0 x x            3-6     
+
+=== Bb 6.7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 1 0 0 3 4            1-4     
+
+=== Bb maj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 7 10 x           7-10    
+
+=== Bb 7sus2 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 3 1 4            1-4     
+
+=== Bb maj11 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 1 0 2 4 x            1-4     
+
+=== Bb mmaj7 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 13 11 14 x x         11-14   
+
+=== Bb 7b9 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 1 0 3 0 4            1-4     
+
+=== Bb maj7b5 ===
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x 8 7 10 0           7-10    
 
 === B maj ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 14 13 11 x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x 14 13 11 x x         11-14   
 
 === B m ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x 14 12 11 x x          
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 14 12 11 x x         11-14   
 
 === B sus4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x 9 11 12 0           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 9 11 12 0          9-12    
 
 === B aug ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 2 1 0 4 x             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 2 1 0 4 x            1-4     
 
 === B dim ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      1-4      x x x 4 3 1             
-w-x-z      7-10     7 8 0 10 0 x            
-w-x-z      7-10     7 8 0 10 x x            
-w-x-z      1-4      x 2 0 4 0 1             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x x 4 3 1            1-4     
+w-x-z      7 8 0 10 0 x           7-10    
+w-x-z      7 8 0 10 x x           7-10    
+w-x-z      x 2 0 4 0 1            1-4     
 
 === B 5 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x x 9 11 12 x           
-x-z        11-14    x x x x 12 14           
-x-z        1-4      x 2 4 x x x             
-w-y        9-12     x x 9 11 x x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 9 11 12 x          9-12    
+x-z        x x x x 12 14          11-14   
+x-z        x 2 4 x x x            1-4     
+w-y        x x 9 11 x x           9-12    
 
 === B m6 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 2 0 1 0 4             
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x 2 0 1 0 4            1-4     
 
 === B m7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x 9 7 10 x            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 9 7 10 x           7-10    
 
 === B m7add4 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      7-10     x x 9 7 10 0            
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-y-z      x x 9 7 10 0           7-10    
 
 === B mmaj7 ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      3-6      x x x 4 3 6             
-w-y-z      5-8      7 5 8 x x x             
-x-y        1-4      x 2 0 3 0 x             
-
-=== B/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    x 0 13 11 0 14          
-w-x-z      1-4      x 0 1 4 0 2             
-w-y        11-14    x 0 13 11 0 x           
-
-=== B/D# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x x 1 4 0 2             
-
-=== B/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      11-14    0 14 13 11 0 x          
-w-y-z      11-14    0 14 13 11 x x          
-
-=== B m/A ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x 0 0 11 12 14          
-w-x-z      11-14    x 0 12 11 0 14          
-x-z        1-4      x 0 0 4 0 2             
-x-y        9-12     x 0 0 11 0 10           
-
-=== B m/A# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      1-4      x 1 0 4 0 2             
-
-=== B m/D ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-x-z      11-14    x x 0 11 12 14          
-x-z        1-4      x x 0 4 0 2             
-x-y        9-12     x x 0 11 0 10           
-
-=== B m/E ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     0 9 12 11 0 x           
-w-x-z      11-14    0 14 12 11 0 x          
-
-=== B m/F# ===
-Fingers    Section  Shape                   
----------- -------- ------------------------
-w-y-z      9-12     x 9 12 11 0 x           
+Fingers    Shape                  Section 
+---------- ---------------------- --------
+w-x-z      x x x 4 3 6            3-6     
+w-y-z      7 5 8 x x x            5-8     
+x-y        x 2 0 3 0 x            1-4     

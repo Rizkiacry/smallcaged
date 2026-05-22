@@ -52,20 +52,22 @@ def render_chord_group(
     else:
         group_header = f"=== {root} {display_type} ==="
 
+    SHAPE_W = 22 if reorder else 24
+
     if reorder:
         if show_section:
-            header = f"{'Fingers':<10} {'Section':<8} {'Shape':<24}"
-            sep = f"{'-'*10} {'-'*8} {'-'*24}"
+            header = f"{'Fingers':<10} {'Shape':<{SHAPE_W}} {'Section':<8}"
+            sep = f"{'-'*10} {'-'*SHAPE_W} {'-'*8}"
         else:
-            header = f"{'Fingers':<10} {'Shape':<24}"
-            sep = f"{'-'*10} {'-'*24}"
+            header = f"{'Fingers':<10} {'Shape':<{SHAPE_W}}"
+            sep = f"{'-'*10} {'-'*SHAPE_W}"
     else:
         if show_section:
-            header = f"{'Shape':<24} {'Section':<8} {'Fingers':<10}"
-            sep = f"{'-'*24} {'-'*8} {'-'*10}"
+            header = f"{'Shape':<{SHAPE_W}} {'Section':<8} {'Fingers':<10}"
+            sep = f"{'-'*SHAPE_W} {'-'*8} {'-'*10}"
         else:
-            header = f"{'Shape':<24} {'Fingers':<10}"
-            sep = f"{'-'*24} {'-'*10}"
+            header = f"{'Shape':<{SHAPE_W}} {'Fingers':<10}"
+            sep = f"{'-'*SHAPE_W} {'-'*10}"
 
     lines: list[str] = [
         group_header,
@@ -75,10 +77,10 @@ def render_chord_group(
     for shape in shapes:
         label = shape_to_finger_label(shape)
         section = find_section(shape) or ""
-        shape_str = _ljust_vis(fmt(shape), 24)
+        shape_str = _ljust_vis(fmt(shape), SHAPE_W)
         if show_section:
             if reorder:
-                lines.append(f"{label:<10} {section:<8} {shape_str}")
+                lines.append(f"{label:<10} {shape_str} {section:<8}")
             else:
                 lines.append(f"{shape_str} {section:<8} {label:<10}")
         else:
